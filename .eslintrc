@@ -1,0 +1,26 @@
+{
+  "extends": ["react-app","airbnb-base"],
+  "env": {
+    "node": true,
+    "es6": true,
+    "browser": true
+  },
+  "rules": {
+    "no-console": "off",
+		"no-param-reassign": ["error", { "props": false }],
+		"max-len": ["error", { "code": 100 }],
+		"function-call-argument-newline": ["error", "consistent"],
+		"no-useless-constructor": "off",
+		"import/prefer-default-export": "off",
+		"import/no-unresolved": "off",
+		"indent": ["error", 4],
+		"@typescript-eslint/no-redeclare": "off",
+	  	"no-empty-function": "off",
+	  	"import/no-extraneous-dependencies": "off",
+	  	"no-tabs": "off",
+	  	"global-require": "off",
+	  	"no-mixed-spaces-and-tabs": "off",
+	  	"func-names": "off",
+		"react-hooks/exhaustive-deps": "off"
+	}
+}

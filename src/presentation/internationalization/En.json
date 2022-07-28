@@ -1,0 +1,11 @@
+{
+	"GENERALS": {
+		"WELCOME": "WELCOME",
+		"FILTER_BY_NAME": "FILTER BY NAME"
+	},
+	"SCREENS": {
+		"ITUNES_SCREEN": {
+			"FILTER_BY_TERM": "Filter by term"
+		}
+	}
+}
