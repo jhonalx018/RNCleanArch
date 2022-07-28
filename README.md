@@ -2,7 +2,7 @@
 Consumer Mobile React Native development - proof of concept
 
 <p align="center">
-  // Update image
+![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/42686771/181596619-3dfb306d-d554-454f-8865-09b7021bf811.gif)
 </p>
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
