@@ -2,7 +2,6 @@ import {useState, useEffect} from 'react';
 import {TPagination, TListState} from '@customTypes/ListTypes';
 
 function paginationInitialState<T>(size: number): TListState<T> {
-  console.log('here');
   return {
     paginatedData: [],
     pagination: {
@@ -18,7 +17,6 @@ function paginationInitialState<T>(size: number): TListState<T> {
  * @param  {number=5} PAGE_SIZE
  */
 export function usePagination<T>(entryList: T[], PAGE_SIZE: number = 5) {
-  console.log('here rendering');
   const [paginationList, setPaginatedList] = useState<TListState<T>>(
     paginationInitialState(PAGE_SIZE),
   );
