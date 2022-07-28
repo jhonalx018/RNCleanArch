@@ -1,9 +1,8 @@
 # consumer-mobile-app-rn
 Consumer Mobile React Native development - proof of concept
 
-<p align="center">
-   ![ezgif com-gif-maker](https://user-images.githubusercontent.com/42686771/181596718-be60959f-e242-40e6-a885-55eb54ce78dd.gif)
-</p>
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/42686771/181596718-be60959f-e242-40e6-a885-55eb54ce78dd.gif)
+
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
